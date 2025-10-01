@@ -5,6 +5,8 @@
 // @description  Sort torrents by completed downloads, seeders, age, size, or type - click button to activate. Works on UNIT3D trackers, such as seedpool, fearnopeer, yu-scene and darkpeers.
 // @author       boisterous-larva
 // @match        https://*/torrents/similar/*
+// @updateURL    https://github.com/boisterous-larva/UNIT3D-sorter/raw/refs/heads/main/unit3d-torrent-group-sorter.user.js
+// @downloadURL  https://github.com/boisterous-larva/UNIT3D-sorter/raw/refs/heads/main/unit3d-torrent-group-sorter.user.js
 // ==/UserScript==
 
 (function() {
