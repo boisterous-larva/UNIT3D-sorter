@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         UNIT3D Torrent Group Sorter
 // @namespace    https://tampermonkey.net/
+// @license      MIT
 // @version      2.0
 // @description  Sort torrents by completed downloads, seeders, age, size, or type - click button to activate. Works on UNIT3D trackers, such as seedpool, fearnopeer, yu-scene and darkpeers.
 // @author       boisterous-larva
